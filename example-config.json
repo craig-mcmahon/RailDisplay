@@ -1,0 +1,28 @@
+{
+  "wsdl": "https://lite.realtime.nationalrail.co.uk/OpenLDBWS/wsdl.aspx",
+  "api_key": "",
+  "journey": [
+    {
+      "departure_station": "DSY",
+      "destination_station": "SLD"
+    },
+    {
+      "departure_station": "MCV",
+      "destination_station": "DSY"
+    }
+  ],
+  "displays": [
+    {
+      "name": "Displayotron",
+      "enabled": false,
+      "use_rbg": true,
+      "class": "Displayotron"
+    },
+    {
+      "name": "StdOut",
+      "enabled": true,
+      "class": "StdOut"
+    }
+  ]
+
+}
