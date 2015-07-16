@@ -1,5 +1,5 @@
 {
-  "wsdl": "https://lite.realtime.nationalrail.co.uk/OpenLDBWS/wsdl.aspx",
+  "wsdl": "https://lite.realtime.nationalrail.co.uk/OpenLDBWS/wsdl.aspx?ver=2014-02-20",
   "api_key": "",
   "journey": [
     {

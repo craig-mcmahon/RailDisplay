@@ -30,6 +30,8 @@ sudo pip install nre-darwin-py
 curl get.pimoroni.com/dot3k | bash
 ```
 
+### Get your API Key
+You can get an API Key from the [NRE Developer Site](http://www.nationalrail.co.uk/46391.aspx)
 
 ## Examples
 
