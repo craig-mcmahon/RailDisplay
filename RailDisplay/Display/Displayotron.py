@@ -86,6 +86,6 @@ class Displayotron:
         lcd.write(message)
 
     @staticmethod
-    def alert_late(self):
-        threading.Thread(target=self.led_blink, args=(1, 255, 0, 0, 5)).start()
+    def alert_late():
+        threading.Thread(target=Displayotron.led_blink, args=(1, 255, 0, 0, 5)).start()
 
